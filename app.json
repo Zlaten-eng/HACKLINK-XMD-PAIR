@@ -1,9 +1,9 @@
 {
-    "name": "Malvin Session Generator",
+    "name": "HACKLINK-XMD Session Generator",
     "description": "Web Session Generator",
-    "logo": "https://i.imgur.com/teQzVR1.jpeg",
-    "repository": "https://github.com/XdKing2/malvin-pair",
-    "keywords": ["MalvinTech","XdKing2"],
+    "logo": "https://files.catbox.moe/65fo9l.jpg",
+    "repository": "https://github.com/VENGEANCE254/HACKLINK-XMD-PAIR",
+    "keywords": ["HACKLINK TECH.INC","HACKLINK-XMD"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
